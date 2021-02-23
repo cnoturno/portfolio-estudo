@@ -1,2 +1,2 @@
 # portfolio-estudo
-Objeto de estudo retirado do canal: Online Mentor
+Objeto de estudo retirado do canal: Going-To Internet
